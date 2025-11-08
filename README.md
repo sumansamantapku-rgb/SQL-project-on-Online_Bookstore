@@ -1,5 +1,10 @@
-📚 Online Bookstore Database Project
+📚 Online Bookstore Database Project:
+
+
 ✨ Project Overview
+
+
+
 This repository contains the complete SQL schema, data population scripts, and analytical queries for an Online Bookstore database. This project was designed to demonstrate advanced proficiency in database design, normalization, data integrity, and complex SQL querying.
 
 The database models a fully functional e-commerce platform for books, tracking customers, authors, orders, inventory, and sales transactions.
